@@ -2,7 +2,7 @@
 import { GoogleGenAI, Type, Modality } from "@google/genai";
 import { ImageAnalysis, LanguageCode } from "../types";
 
-const API_KEY = process.env.API_KEY || '';
+const API_KEY = process.env.API_KEY || 'AIzaSyAAY-nW4x5mzgb7l1UkGN33JsACV0TlEUI';
 
 export class GeminiService {
   private ai: GoogleGenAI;
