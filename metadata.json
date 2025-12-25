@@ -1,0 +1,9 @@
+
+{
+  "name": "VisionVoice AI",
+  "description": "An advanced multimodal AI application that analyzes images, provides detailed spoken summaries, and engages in real-time voice conversations about visual content using Gemini's cutting-edge Live API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
